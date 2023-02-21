@@ -1,0 +1,16 @@
+
+
+/* css OUTLINE */
+
+.outline h1{
+    font-weight: bold;
+}
+
+.outline{
+    padding:30px;
+    border: 1px solid black;
+    background-color:blueviolet;
+    outline: 5px solid blue;
+    outline-style: dashed;
+}
+   
